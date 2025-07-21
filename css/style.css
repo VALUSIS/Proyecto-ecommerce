@@ -1,0 +1,29 @@
+body {
+    width: 100%;
+}
+
+.div__a--logonav {
+    width: 60px;
+}
+
+.div__h1--principal {
+    width: auto;
+    margin-top: 20px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.div__button--principal {
+    width: auto;
+    margin-top: 20px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.div__button--principal p {
+    display: flex;
+    justify-content: center;
+}
